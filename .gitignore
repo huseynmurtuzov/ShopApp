@@ -56,3 +56,4 @@ TestResult.xml
 nunit-*.xml
 .vs/
 >>>>>>> 062a50b71862dafbee97efb9b8048d1864aa7783
+appsettings.json
