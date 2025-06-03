@@ -1,0 +1,6 @@
+@ShopApp.Discount_HostAddress = http://localhost:5095
+
+GET {{ShopApp.Discount_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
